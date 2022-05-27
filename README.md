@@ -19,7 +19,6 @@ To be continued...
 
 ### Storybook
 
-To launch the storybook use `npm run storybook`
-Storybook will run on port 6000
+To launch the storybook use `yarn start-storybook`
 
 ### Architecture
