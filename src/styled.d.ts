@@ -8,5 +8,6 @@ declare module 'styled-components' {
     success: string
     white: string
     gray: string
+    radiusCard: string
   }
 }
