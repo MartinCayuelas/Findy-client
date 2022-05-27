@@ -1,1 +1,1 @@
-# Findy-front
+# Findy-client
